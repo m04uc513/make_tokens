@@ -2,6 +2,9 @@
 node_modules
 package.json
 package-lock.json
+Alan_Turing.json
+wikipedia-papers.json
+wikipedia-tokens.json
 
 # Prerequisites
 *.d
